@@ -1,0 +1,5 @@
+Puppet Class Sync
+
+A utility to enable to population and synchronisation of modules/classes between the puppet $module_path and the mysql
+database for use with ENC relationship utilities such as Puppet Dashboard and The Foreman.
+
